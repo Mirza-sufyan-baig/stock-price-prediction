@@ -1,10 +1,10 @@
-# 🚀 AI-Powered Stock Price Prediction Platform
+  # 🚀 AI-Powered Stock Price Prediction Platform
 
 > **Production-Grade Quant + AI System for Intelligent Stock Analysis & Decision Making**
 
 ---
 
-## 🧠 Overview
+## 🧠 Overview 
 
 This project is a **startup-level, end-to-end AI platform** designed to analyze financial markets using:
 
